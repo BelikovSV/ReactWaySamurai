@@ -1,0 +1,13 @@
+.item {
+    color: dodgerblue;
+}
+
+.item.active {
+    color:yellowgreen;
+}
+
+.item img {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
